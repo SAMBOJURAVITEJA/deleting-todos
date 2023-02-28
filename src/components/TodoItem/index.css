@@ -1,0 +1,13 @@
+p {
+  color: #000000;
+  margin: 20px;
+}
+
+.button {
+  color: #ff0b37;
+  border-style: solid;
+  border-radius: 4px;
+  background-color: transparent;
+  border-color: #ff0b37;
+  margin-left: 10px;
+}

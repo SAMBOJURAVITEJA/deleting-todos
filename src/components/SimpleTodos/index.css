@@ -1,0 +1,21 @@
+.bg-container {
+  height: 100vh;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc2a0;
+}
+
+.heading {
+  text-align: center;
+  color: #ff8542;
+}
+.list-container {
+  padding: 12px;
+  border-radius: 8px;
+  list-style-type: none;
+  font-weight: bold;
+  background-color: #ffffff;
+}
